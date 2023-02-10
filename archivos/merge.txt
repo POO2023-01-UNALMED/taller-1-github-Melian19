@@ -5,3 +5,5 @@ quiero pasar la materia y ser feliz, obvio no nos saltemos la parte de aprender 
 
 Por que la carpeta ya no està vacia
 
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Debido a que estos pueden generar conflicto
